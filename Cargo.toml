@@ -5,7 +5,7 @@ edition = "2024"
 
 [[bin]]
 name = "test"
-path = "src/Test.rs"
+path = "src/main.rs"
 
 [dependencies]
 antlr4rust = "0.3.0-beta2"
